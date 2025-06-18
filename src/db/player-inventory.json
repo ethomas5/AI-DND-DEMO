@@ -1,0 +1,25 @@
+{
+  "inventory": {
+    "coins": {
+      "cp": 0,
+      "sp": 0,
+      "gp": 0,
+      "pp": 0
+    },
+    "weightLimit": 0,
+    "totalWeight": 0,
+    "items": [
+      {
+        "name": "",
+        "type": "",
+        "quantity": 0,
+        "weight": 0,
+        "equipped": false,
+        "properties": [
+          ""
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

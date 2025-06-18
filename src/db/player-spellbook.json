@@ -1,0 +1,29 @@
+{
+  "spellcastingAbility": "",
+  "spellSlots": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "knownSpells": [
+  {
+  "name": "",
+  "level": 0,
+  "school": "",
+  "castingTime": "",
+  "range": "",
+  "components": {
+  "verbal": false,
+  "somatic": false
+  },
+  "duration": "",
+  "description": "",
+  "ritual": false,
+  "concentration": false,
+  "tags": []
+  }
+  ],
+  "preparedSpells": [
+  ]
+}

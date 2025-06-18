@@ -1,0 +1,22 @@
+{
+  "name": "ai-proj",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@azure/ai-agents": "^1.0.0-beta.4",
+    "@azure/ai-projects": "^1.0.0-beta.8",
+    "@azure/identity": "^4.10.1",
+    "@azure/storage-blob": "^12.27.0",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "typescript": "^5.8.3"
+  }
+}
